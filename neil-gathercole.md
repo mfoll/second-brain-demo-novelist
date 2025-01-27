@@ -1,0 +1,32 @@
+---
+type: Person
+related_to:
+  - "[[manage-writing-finances]]"
+  - "[[accounts-2025]]"
+  - "[[cash-review-with-neil-2026-10-14]]"
+_organized: true
+---
+
+# Neil Gathercole
+
+Accountant for authors and freelancers, with a small practice of about ninety clients, a good half of them writers, illustrators and translators. He has done my accounts since 2019. External; no affiliation hub in this vault.
+
+## Role
+
+- Prepares and files the annual self-employed accounts ([[accounts-2025]], [[accounts-2025-summary-from-neil]]).
+- Advises on what counts as an allowable expense, and on spreading lumpy income. Engagement terms in [[neil-gathercole-engagement-letter]]: fixed fee, 420 GBP a year for 2025.
+- Sanity-checks the cash-flow forecast when something big changes, unbilled up to about an hour a year, which I try not to exceed.
+
+## How We Work Together
+
+Email, with a meeting in January for the accounts. He likes a single workbook with one tab per category and the receipts scanned in date order. He dislikes being sent anything in the first two weeks of January without warning. He is direct about money and does not pretend that writing is a business plan.
+
+## Current Threads
+
+- **The Ashlar question.** On the call of [[cash-review-with-neil-2026-10-14|14 October 2026]] he looked at the [[cash-flow-forecast-2026]] and said what I had been avoiding: the 9,500 GBP commission covers the November to April gap on its own, even if the Vellacott award fails, and a refusal of both leaves me drawing on savings by February. His follow-up note is [[neil-gathercole-cash-note-2026-10-14]]. He is not advising on whether the book can stand the time; that is Callum's side.
+- 2026 accounts: records to him by 2027-01-15.
+
+## Links
+
+- [[should-i-take-the-ashlar-translation-commission]]
+- [[expense-categories]]

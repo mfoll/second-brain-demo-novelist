@@ -1,0 +1,31 @@
+---
+type: Person
+related_to:
+  - "[[should-i-take-the-ashlar-translation-commission]]"
+  - "[[ashlar-commission-offer-2026-09-30]]"
+  - "[[translation-and-craft]]"
+_organized: true
+---
+
+# Celine Marchetti
+
+Commissioning editor at Ashlar Editions, a small English-language publisher of translated fiction. External; no affiliation hub in this vault.
+
+## Role
+
+She commissions and edits Ashlar's French and Italian list, about six books a year. She read two of my translations in the 2010s and, she says, Lantern Hours last year, which is how she thought of me.
+
+## The Offer
+
+On [[ashlar-commission-offer-2026-09-30|30 September 2026]] she offered me the translation of a French novel of about 88,000 words, for a fee of 9,500 GBP, delivery 2027-06-30. Half on signature, half on delivery and acceptance. She sent a sample chapter and a synopsis ([[ashlar-sample-chapter]]). Ashlar has a translation grant application pending on the book, which is why the date matters to her: the grant requires the translation to be under contract by January.
+
+The terms and the options are compared in [[ashlar-commission-options]]. My answer is due on 2026-11-06 ([[should-i-take-the-ashlar-translation-commission]]).
+
+## How We Work Together
+
+Email so far, one call on 2026-10-07 about the schedule. She was frank that June 2027 is fixed for the grant, and less fixed for her list, and that she would consider two translators if both names were good ones ([[is-co-translation-credit-acceptable-to-ashlar]]). She asked me not to discuss the book's title or author outside the agency until the contract is signed, so they are not recorded here.
+
+## Links
+
+- [[aurelio-santangelo]]
+- [[callum-email-on-ashlar-2026-10-03]]

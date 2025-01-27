@@ -1,0 +1,49 @@
+---
+type: Note
+belongs_to: "[[salt-choir-novel]]"
+related_to:
+  - "[[letter-chapters]]"
+  - "[[class-session-2026-01-27]]"
+  - "[[point-of-view-and-voice]]"
+  - "[[character-bible]]"
+_organized: true
+---
+
+# Constance Leal
+
+One of the three viewpoint characters of The Salt Choir. A vicar's widow who leads the Bethel chapel choir in Saltmarrow, and the only character who speaks to the reader directly: her chapters are letters to her sister. A character of the novel, not a person; household and dates are in [[character-bible]].
+
+## Who she is
+
+- Born 1881, so 43 when the book opens. Widowed in 1921; her husband was Anglican and she has crossed to the chapel, which the town has not entirely forgiven.
+- Lives on a small annuity and what she earns teaching piano. Leads the Bethel choir from 1924, takes it from a congregation's singing to four-part harmony by 1927.
+- Clever, dry, lonely, more musical than devout. Sees the town more clearly than anyone and is trusted by almost no one in it.
+- Her sister, Agnes, lives inland and never appears. Agnes never writes back on the page ([[should-constances-sister-write-back]]).
+
+## Her role in the book
+
+She is the town's long view. Nell sees what comes over the wire; Tobias sees the sea and the crew; Constance sees the chapel, the widows, the committee and the money. After the storm she organises the choir for the memorial and, in part three, the fund for the bereaved families, where her letters become sharper about who gives and who is seen to give.
+
+## Where the letters came from
+
+In the first draft Constance was seen only through Nell and was flat: a kind, musical woman with no inside. In early January 2026 I tried her in close third and she was flatter.
+
+At the [[class-session-2026-01-27|spring class session of 27 January 2026]] on epistolary voice, [[maureen-tighe|Maureen Tighe]] proposed an exercise ([[maureen-tighe-letter-exercise]]): write a letter from a character to the one person they do not perform for. I wrote one alongside the students, in Constance's voice, to her sister. It came out whole in twenty minutes. Two lines I kept from it, both my own draft:
+
+> I have the altos at last, Agnes, and they are terrible, and I am happier than I have been since Edmund died. Do not tell Mother I said happier.
+
+That letter solved her. I read it to Imogen on the [[editorial-call-2026-02-19|editorial call of 19 February]], and from draft 2 her chapters are letters. They survived the partial reversal of the [[draft-two-review-2026-07-08|July review]] untouched, and Imogen called them the strongest thing in draft 2. My notes credit Maureen's exercise as the spark; she has agreed to be thanked in the acknowledgements.
+
+## How the letters work
+
+- Nine letters in the third draft, one closing each run of two or three Nell and Tobias chapters, and the last chapter of the book is a letter ([[third-draft-chapter-map]]).
+- Each is dated and headed from Saltmarrow; lengths from 900 to 3,200 words.
+- She reports events late and partially, which gives the book its only unreliable narration, and makes the storm letter (written five days after) possible without repeating chapters 21 to 23 ([[unreliable-narrator]]).
+- Her letters are where the choir lives. Hymn titles and rehearsal detail come from [[ingrid-solheim]]'s choir and [[choral-traditions]] reading.
+- Craft notes in [[letter-chapters]]. The file of letters is [[constance-letters-file]].
+
+## Things to keep consistent
+
+- She never calls the storm a disaster; she calls it "the November business" until the memorial letter.
+- She never addresses the reader; only Agnes.
+- She does not know Tobias's war history beyond what the town says.

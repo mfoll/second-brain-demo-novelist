@@ -1,0 +1,30 @@
+---
+type: Person
+belongs_to: "[[teach-creative-writing]]"
+related_to:
+  - "[[evening-class-autumn-2025]]"
+  - "[[evening-class-autumn-2026]]"
+  - "[[reverse-outline]]"
+_organized: true
+---
+
+# Samir Benhaddou
+
+Student in autumn 2025 and again in autumn 2026. Works as a software tester; writing a crime novel.
+
+## In Class
+
+In autumn 2025 Samir wrote more than anyone else in the room, about 40,000 words over the term, and revised almost none of it, which he described as "shipping without testing" (his phrase, used here with his agreement). He came back for the revision term with a complete draft of about 95,000 words.
+
+The [[reverse-outline]] session on [[class-session-2026-10-06|6 October 2026]] suited him exactly. He built his outline in a spreadsheet, one row per scene, with columns for viewpoint, day, clue planted and clue paid off, and found that two clues were paid off before they were planted. He showed the class the structure (not the text), which did more for the session than my handout. With his agreement the column layout is now an optional appendix to [[reverse-outline-handout-2026-10-06]].
+
+He is wary of literary fiction and says so cheerfully. He and [[ronan-maddox]] get on well; both want to know how things work.
+
+## How We Work Together
+
+Questions by the centre's system, comments in class. He prefers blunt feedback and asks for it.
+
+## Links
+
+- [[evening-class-autumn-2025]]
+- [[evening-class-autumn-2026]]
