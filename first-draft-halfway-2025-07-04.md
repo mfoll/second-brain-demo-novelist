@@ -1,0 +1,28 @@
+---
+type: Event
+date: 2025-07-04
+belongs_to: "[[salt-choir-first-draft]]"
+related_to:
+  - "[[salt-choir-word-count-log]]"
+  - "[[nell-garrick]]"
+_organized: true
+---
+
+# First Draft Halfway 2025-07-04
+
+The first draft of The Salt Choir passed 56,000 words on Friday 4 July 2025, with chapter 20 of a planned 40 finished (Nell's first summer at the telegraph office, 1925). About three weeks behind my own plan, which had halfway at mid-June.
+
+## Why late
+
+- The [[hardback-launch-2025]] readings and two festival events took most of March and April.
+- The [[character-bible]] took longer than planned; I stopped drafting for ten days in May to settle the lifeboat crew and decided then that Tobias survives ([[should-tobias-survive-the-storm]]).
+
+## What I noted at the time
+
+- Nell is carrying everything. I wrote, in the notebook: "She keeps having to be in the room." I did not act on it. [[wendy-farrant]] said it more sharply in October.
+- The storm is planned for chapter 31. I was pleased it would be a late climax.
+- Revised finish date: mid-December. It finished on 2025-12-17.
+
+## Decision
+
+Keep going without restructuring; revise in draft 2. That was the right call for getting a whole draft, and the wrong call about how much draft 2 would need.
