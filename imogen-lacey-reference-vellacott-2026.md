@@ -1,0 +1,30 @@
+---
+type: Source
+source_type: Internal document
+date_accessed: 2026-10-12
+belongs_to: "[[vellacott-grant-application]]"
+related_to:
+  - "[[imogen-lacey]]"
+  - "[[vellacott-application-2026]]"
+_organized: true
+---
+
+# Imogen Lacey Reference For Vellacott 2026
+
+Reference letter from [[imogen-lacey]], fiction publishing director at Larkspur & Venn, sent directly to the Vellacott Fund on 12 October 2026. She copied me, which referees for this fund may do.
+
+## Summary
+
+One page. Confirms that The Salt Choir is under contract, that the delivery date moved by agreement to 2027-03-31 because of a structural rewrite the publisher asked for, and that the publisher regards the third draft as the book it will publish. Describes Lantern Hours' reception and paperback sales in general terms. Says that the months between tranches are "the period in which the book will be made or not".
+
+## Why It Matters
+
+The panel's best evidence that the money buys something specific. Imogen's account of the rewrite as the publisher's request, not a writer's delay, matters for a fund that will see the moved tranche in the budget ([[vellacott-budget-2026]]).
+
+## Caveats
+
+A copy sent to the applicant is a courtesy. I do not quote it in public and it stays with the application files.
+
+## Source Location
+
+Email with PDF attachment, saved in `grants/vellacott-2026/submitted/` under the `writing_business` root.
