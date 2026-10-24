@@ -12,6 +12,8 @@ A demo Second Brain: about 500 linked Markdown notes holding the working memory 
 
 ![Quayle Writing Brain in Brain Graph, coloured by the Project or Responsibility each note rolls up to](assets/quayle-writing-brain-graph.png)
 
+**[Explore this vault in the live demo](https://mfoll.github.io/brain-graph-demo/?vault=quayle-writing-brain)**: its map in Brain Graph, in your browser, with nothing to install.
+
 > [!warning]
 > Everything about the novelist is fictional: Hester Quayle, her books, the town of Saltmarrow, every person, the publisher, agency, festival, magazine, bookshops, college, fund, residency and archive. Any resemblance to real people or organisations is accidental. Only the Sources marked as Wikipedia articles, public-domain literary works or documentation are real.
 
